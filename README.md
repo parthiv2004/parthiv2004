@@ -54,7 +54,10 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=parthiv2004&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=parthiv2004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=parthiv2004&theme=onedark&no-frame=true&no-bg=true&margin-w=10" />
+</p>
 
 
 ### ✍️ Random Dev Quote
